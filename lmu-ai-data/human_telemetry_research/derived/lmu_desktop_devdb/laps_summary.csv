@@ -1,0 +1,26 @@
+lap_key,origin,track,layout,car_make,car_class_as_recorded,session_type,lap_number,lap_time_s,is_valid,sector1_s,sector2_s,sector3_s,duration_s,n_samples,samples_per_s,dup_t_fraction,lap_dist_max_m,speed_max_kmh,rpm_min,rpm_max,gears_seen,steer_abs_p95,steer_distinct,steer_frac_at_limit,throttle_frac_full,brake_frac_nonzero,usable,notes
+OWN-001,own_lap_table,Spa-Francorchamps,,BMW,GT3,practice,2,144.214,True,38.888611,103.750641,1.574463,140.153,2120,15.13,0.66,6971.4,258.7,3315,7468,0/1/2/3/4/5,0.376,598,0.0,0.641,0.1726,yes,
+OWN-002,own_lap_table,Sebring,International,Ferrari,Hyper,practice,2,143.878,True,,100.196289,,108.708,2047,18.83,0.668,5806.4,278.1,2129,8468,0/1/2/3/4/5/6,0.633,669,0.0127,0.4074,0.2931,yes,
+OWN-003,own_lap_table,Imola,,Ford,GT3,practice,13,105.625,True,22.347656,56.868164,26.408691,105.4,1564,14.84,0.663,4887.8,257.6,4700,8002,0/1/2/3/4/5/6,0.404,551,0.0,0.6688,0.1899,yes,
+OWN-004,own_lap_table,Imola,,Ford,GT3,practice,14,105.618,True,21.761719,56.73877,27.117676,105.4,1570,14.9,0.664,4886.7,259.4,4463,8158,0/1/2/3/4/5/6,0.398,521,0.0,0.6567,0.1803,yes,
+OWN-005,own_lap_table,Imola,,Ford,GT3,practice,3,105.098,True,21.831848,56.071655,27.194031,105.0,1544,14.7,0.659,4893.1,259.8,4605,8043,0/1/2/3/4/5/6,0.383,512,0.0,0.6652,0.1794,yes,
+OWN-006,own_lap_table,Imola,,Ford,GT3,qualifying,2,106.432,True,22.160294,,,106.2,1567,14.76,0.659,4893,259.2,4326,8104,0/1/2/3/4/5/6,0.397,516,0.0,0.6573,0.1857,yes,
+OWN-007,own_lap_table,Imola,,Ford,GT3,qualifying,3,105.208,True,21.835693,56.151917,27.220367,105.0,1550,14.76,0.661,4892.5,259.7,4396,8138,0/1/2/3/4/5/6,0.37,514,0.0,0.6606,0.2058,yes,
+OWN-008,own_lap_table,Imola,,Ford,GT3,qualifying,5,0.0,False,0.0,0.0,0.0,140.2,2070,14.76,0.662,3238.9,259.9,0,8238,0/1/2/3/4/5/6,0.325,547,0.0,0.2855,0.0957,no,lap_time=0 or invalid lap (incomplete)
+OWN-009,own_lap_table,Imola,,Ford,GT3,practice,2,122.474,True,26.420898,66.95105,29.102005,122.2,1688,13.81,0.638,4887.3,253.8,2727,8221,0/1/2/3/4/5,0.401,563,0.0,0.5912,0.1363,yes,
+OWN-010,own_lap_table,Sebring,International,Ferrari,GT3,practice,2,153.983,True,64.604874,102.063385,,153.8,2165,14.08,0.645,5808.4,241,2348,7960,0/1/2/3/4/5,1,650,0.0531,0.6212,0.1741,yes,
+OWN-011,own_lap_table,Sebring,International,Ferrari,GT3,practice,3,146.059,True,55.473694,92.765137,,146.0,11410,78.15,0.936,5816.4,235.7,2715,7996,0/2/3/4,0.107,587,0.0004,0.1078,0.0238,yes_after_dedupe,"78 rows/s: repeated timestamps, dedupe by new_t"
+OWN-012,own_lap_table,Imola,,Ford,GT3,practice,5,108.865,True,23.201172,59.181641,26.482422,108.6,1590,14.64,0.658,4893.2,257.3,4178,8247,0/1/2/3/4/5,0.356,521,0.0,0.6365,0.2031,yes,
+OWN-013,own_lap_table,Spa-Francorchamps,,Ford,GT3,qualifying,2,151.846,True,39.99678,110.726364,1.122574,151.6,2151,14.19,0.647,6972.8,253.1,2265,8233,0/1/2/3/4/5,0.428,633,0.0,0.622,0.1822,yes,
+OWN-014,own_lap_table,Spa-Francorchamps,,Ford,GT3,race,1,284.448,True,60.109879,150.477081,73.860611,279.217,5669,20.3,0.652,6982,242.6,0,8271,0/1/2/3/4/5,0.304,711,0.0,0.2454,0.1302,yes,race lap 1 (standing start)
+OWN-015,own_lap_table,Spa-Francorchamps,,Ford,GT3,race,2,168.039,True,53.092072,126.887421,,167.8,2397,14.28,0.65,6975.6,249.1,3393,8215,0/1/2/3/4/5,0.32,589,0.0,0.5528,0.2061,yes,
+OWN-016,own_lap_table,Spa-Francorchamps,,Ford,GT3,race,3,146.62,True,38.942627,103.462524,4.214355,146.4,2077,14.19,0.647,6974.6,254.1,3825,8247,0/1/2/3/4/5/6,0.377,597,0.0,0.5965,0.1656,yes,
+OWN-017,own_lap_table,Spa-Francorchamps,,Ford,GT3,race,4,146.1,True,39.235596,104.854004,2.010742,145.8,2078,14.25,0.649,6969.3,254.1,4171,8236,0/1/2/3/4/5,0.385,595,0.0,0.5885,0.153,yes,
+OWN-018,own_lap_table,Spa-Francorchamps,,Ford,GT3,race,5,145.209,True,39.474121,104.226379,1.508362,145.0,2040,14.07,0.644,6968.8,254.3,4186,8235,0/1/2/3/4/5,0.371,602,0.0,0.6157,0.1485,yes,
+OWN-019,own_lap_table,Spa-Francorchamps,,Ford,GT3,race,6,145.239,True,39.28833,104.477905,1.473022,145.2,2066,14.23,0.648,6977.2,254.1,3495,8230,0/1/2/3/4/5,0.401,591,0.0,0.6113,0.1457,yes,
+OWN-020,own_lap_table,Spa-Francorchamps,,Ford,GT3,race,8,148.136,True,39.410522,107.682129,1.043701,148.0,2105,14.22,0.648,6974,251.3,2130,8241,0/1/2/3/4/5,0.41,643,0.0,0.6143,0.1701,yes,
+OWN-021,own_lap_table,Paul Ricard,1A-V2,Ford,GT3,qualifying,1,0.0,False,0.0,0.0,0.0,21.2,3148,148.49,0.966,5753.8,193.5,4398,8236,0/1/2/3,0.107,238,0.0,0.9349,0.0175,no,lap_time=0 or invalid lap (incomplete)
+OWN-022,own_lap_table,Paul Ricard,1A-V2,Ford,GT3,qualifying,2,122.276,True,36.683395,68.117218,17.4758,122.0,1965,16.11,0.689,5749.7,265.7,3827,8215,0/1/2/3/4/5/6,0.458,664,0.0,0.6377,0.1715,yes,
+OWN-023,own_lap_table,Paul Ricard,1A-V2,BMW,GT3,qualifying,1,0.0,False,0.0,0.0,0.0,169.2,3641,21.52,0.771,5747.7,267.5,0,7501,0/1/2/3/4/5,0.419,772,0.0,0.535,0.2425,no,lap_time=0 or invalid lap (incomplete)
+OWN-024,own_lap_table,Paul Ricard,1A-V2,BMW,GT3,qualifying,1,0.0,False,0.0,0.0,0.0,165.4,7307,44.18,0.889,2732.4,214.1,0,7473,0/1/2/3/4,0.431,919,0.0047,0.1611,0.0701,no,lap_time=0 or invalid lap (incomplete)
+IMP-001,imported_lap_table,Imola,,Ford,GT3,practice,21,103.647,True,21.706299,55.500244,26.44043,103.4,1528,14.78,0.661,4886.7,259.8,4826,8223,0/1/2/3/4/5/6,0.371,519,0.0,0.6891,0.1957,yes,

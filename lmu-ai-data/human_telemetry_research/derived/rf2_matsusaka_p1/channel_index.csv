@@ -1,0 +1,246 @@
+name,short_name,unit,freq_hz,n_samples,duration_s,dtype,min,max,mean
+Ground Speed,Grd Spd,km/h,20,11517,575.85,int32,0.0001,241.4118,141.938
+Throttle Pos,Thrttle,%,20,11517,575.85,int32,0.0,100.0,64.9036
+Brake Pos,Brake,%,20,11517,575.85,int32,0.0,100.0,7.4425
+Clutch Pos,Clutch,%,20,11517,575.85,int32,0.0,100.0,1.8441
+Steering,Steer,%,20,11517,575.85,int32,-25.061,55.1576,4.5673
+Beacon,Beacon,,5,2879,575.8,int16,-32767.0,17375.0,-170.902
+Realtime Loss,RTLoss,s,1,576,576.0,int16,0.0,0.0,0.0
+Marker,Marker,,1,575,575.0,int8,0.0,0.0,0.0
+Max Straight Speed,Max Str,km/h,1,575,575.0,int16,0.0,241.42,149.0099
+Min Corner Speed,Min Cor,km/h,1,575,575.0,int16,0.0,133.38,100.0291
+Brake Bias Rear,BBias R,%,50,28792,575.84,int32,34.0,34.0,34.0
+Steering Shaft Torque,Str Tq,N.m,20,11517,575.85,int32,-90.4777,92.1848,-7.4984
+FFB Output,FFBOut,%,100,57585,575.85,int32,-100.0,100.0,-22.4077
+Session Elapsed Time,SessET,s,100,57585,575.85,int16,1592.0,2168.0,1879.7449
+Lap Number,Lap N,,100,57585,575.85,int16,28.0,38.0,32.5449
+Delta Best,Delta B,s,5,2879,575.8,int16,-0.432,10.0,0.3604
+Steering Wheel Position,SW Pos,deg,20,11517,575.85,int32,-63.1537,138.997,11.5095
+Engine RPM,Eng RPM,rpm,20,11517,575.85,int32,0.0,7793.5922,6347.3818
+Gear,Gear,,20,11517,575.85,int8,0.0,6.0,3.4797
+G Force Lat,G Lat,G,50,28792,575.84,int32,-1.8474,1.7674,-0.3857
+G Force Long,G Long,G,50,28792,575.84,int32,-1.0329,2.1082,-0.0475
+G Force Vert,G Vert,G,50,28792,575.84,int32,-0.4714,0.5965,0.0133
+Eng Water Temp,Eng Wtr,C,10,5758,575.8,int32,55.3967,91.8503,85.57
+Eng Oil Temp,Eng Oil,C,10,5758,575.8,int32,55.2969,93.5011,87.1134
+Fuel Level,Fuel,l,10,5758,575.8,int32,40.9132,50.0,45.5753
+Battery Charge Level,Bat Lev,%,5,2879,575.8,int32,0.0,0.0,0.0
+Brake Temp FL,Brke FL,C,20,11517,575.85,int32,20.8524,399.2253,236.3344
+Brake Temp FR,Brke FR,C,20,11517,575.85,int32,20.8523,313.5904,211.5967
+Brake Temp RL,Brke RL,C,20,11517,575.85,int32,20.8512,311.7277,215.8274
+Brake Temp RR,Brke RR,C,20,11517,575.85,int32,20.8512,310.2666,215.46
+GPS Latitude,GPS Lat,deg,20,11517,575.85,int32,-0.005,0.0021,-0.0014
+GPS Longitude,GPS Lon,deg,20,11517,575.85,int32,-134.9966,-134.9906,-134.9938
+Ambient Temperature,Ambient,C,20,11517,575.85,int16,20.85,20.85,20.85
+Track Temperature,Track,C,20,11517,575.85,int16,21.738,22.0,21.9678
+Wheel Rot Speed FL,Rot FL,rad/s,50,28792,575.84,int32,-0.3976,213.2353,125.7307
+Wheel Rot Speed FR,Rot FR,rad/s,50,28792,575.84,int32,-0.561,212.4498,123.8761
+Wheel Rot Speed RL,Rot RL,rad/s,50,28792,575.84,int32,-0.1175,213.0736,126.8283
+Wheel Rot Speed RR,Rot RR,rad/s,50,28792,575.84,int32,-0.1175,213.0749,126.6955
+Tyre Wear FL,Wear FL,%,10,5758,575.8,int32,0.0,5.2756,2.036
+Tyre Wear FR,Wear FR,%,10,5758,575.8,int32,0.0,2.2931,1.0158
+Tyre Wear RL,Wear RL,%,10,5758,575.8,int32,0.0,4.1819,1.702
+Tyre Wear RR,Wear RR,%,10,5758,575.8,int32,0.0,3.3005,1.4752
+Tyre Pressure FL,TPrsFL,kPa,10,5758,575.8,int32,147.5686,165.7377,155.6906
+Tyre Pressure FR,TPrsFR,kPa,10,5758,575.8,int32,145.0584,153.5435,148.3645
+Tyre Pressure RL,TPrsRL,kPa,10,5758,575.8,int32,148.5632,167.759,157.7013
+Tyre Pressure RR,TPrsRR,kPa,10,5758,575.8,int32,147.9094,157.8286,152.1803
+Tyre Load FL,Load FL,N,20,11517,575.85,int32,-0.0,9218.8125,4024.8145
+Tyre Load FR,Load FR,N,20,11517,575.85,int32,-0.0,8564.2895,2444.2293
+Tyre Load RL,Load RL,N,20,11517,575.85,int32,-0.0,8643.9065,4907.7031
+Tyre Load RR,Load RR,N,20,11517,575.85,int32,214.9893,9261.4048,3491.8742
+Grip Fract FL,Grip FL,%,20,11517,575.85,int32,0.0,100.0,79.4391
+Grip Fract FR,Grip FR,%,20,11517,575.85,int32,0.0,100.0,69.1481
+Grip Fract RL,Grip RL,%,20,11517,575.85,int32,0.0,100.0,78.7051
+Grip Fract RR,Grip RR,%,20,11517,575.85,int32,0.0,100.0,70.4854
+Ride Height FL,Ride FL,mm,20,11517,575.85,int32,25.0931,175.9712,106.93
+Ride Height FR,Ride FR,mm,20,11517,575.85,int32,38.9928,180.7595,110.1615
+Ride Height RL,Ride RL,mm,20,11517,575.85,int32,37.409,175.2016,124.2026
+Ride Height RR,Ride RR,mm,20,11517,575.85,int32,37.133,175.757,125.7006
+Tyre Temp FL Outer,TT FL O,C,10,5758,575.8,int32,52.2335,202.8911,89.9447
+Tyre Temp FL Centre,TT FL C,C,10,5758,575.8,int32,52.1705,194.9437,88.4187
+Tyre Temp FL Inner,TT FL I,C,10,5758,575.8,int32,52.7829,139.645,73.5466
+Tyre Temp FR Outer,TT FR O,C,10,5758,575.8,int32,49.5517,111.2737,62.2773
+Tyre Temp FR Centre,TT FR C,C,10,5758,575.8,int32,53.3344,103.6088,69.053
+Tyre Temp FR Inner,TT FR I,C,10,5758,575.8,int32,52.4846,154.558,80.0879
+Tyre Temp RL Outer,TT RL O,C,10,5758,575.8,int32,52.0448,187.9254,79.9803
+Tyre Temp RL Centre,TT RL C,C,10,5758,575.8,int32,53.2309,181.631,81.5019
+Tyre Temp RL Inner,TT RL I,C,10,5758,575.8,int32,52.7714,142.383,74.5366
+Tyre Temp RR Outer,TT RR O,C,10,5758,575.8,int32,50.765,192.4973,65.828
+Tyre Temp RR Centre,TT RR C,C,10,5758,575.8,int32,53.9292,177.5262,77.3766
+Tyre Temp RR Inner,TT RR I,C,10,5758,575.8,int32,53.6425,147.68,83.2802
+Front Wing Height,FWingH,mm,50,28792,575.84,int32,37.3922,175.0468,109.0635
+Front Ride Height,FRideH,mm,20,11517,575.85,int32,32.2652,178.148,108.5458
+Rear Ride Height,RRideH,mm,20,11517,575.85,int32,37.4952,175.3337,124.9508
+Drag,Drag,N,50,28792,575.84,int32,-0.0,2608.1565,986.4304
+Front Downforce,FDownF,N,50,28792,575.84,int32,-0.0001,739.8167,246.2706
+Rear Downforce,RDownF,N,50,28792,575.84,int32,-0.0002,1216.825,441.7142
+Throttle Pos Filtered,ThrttlF,%,20,11517,575.85,int32,0.0,100.0,65.2573
+Brake Pos Filtered,BrakeF,%,20,11517,575.85,int32,0.0,100.0,7.5901
+Clutch Pos Filtered,ClutchF,%,20,11517,575.85,int32,0.0,100.0,2.0652
+Steering Filtered,SteerF,%,20,11517,575.85,int32,-25.061,55.1576,4.5673
+Lap Start Elapsed Time,LapET,s,100,57585,575.85,int16,1527.0,2152.0,1844.6342
+Current Sector,CurSect,,100,57585,575.85,int8,0.0,2.0,0.8716
+In Pits,In Pits,,5,2879,575.8,int8,0.0,1.0,0.0208
+Place,Place,,4,2303,575.75,int8,1.0,1.0,1.0
+Time Behind Next,TimeBN,s,5,2879,575.8,int16,0.0,0.0,0.0
+Laps Behind Next,LapsBN,,5,2879,575.8,int16,0.0,0.0,0.0
+Time Behind Leader,TimeBL,s,5,2879,575.8,int16,0.0,0.0,0.0
+Laps Behind Leader,LapsBL,,5,2879,575.8,int16,0.0,0.0,0.0
+PitStatus,PitStat,,5,2879,575.8,int8,0.0,4.0,0.0834
+Lap Distance,LapDist,m,5,2879,575.8,int16,-1.0,2242.0,1191.7996
+Path Lateral,PathLat,m,5,2879,575.8,int16,-6.64,22.46,-0.9573
+Track Edge,TrkEdge,m,5,2879,575.8,int16,-30.0,16.87,-1.8326
+Finish Status,Finish,,4,2303,575.75,int8,0.0,0.0,0.0
+Best Sector 1,BstSec1,s,5,2879,575.8,int16,20.6,20.6,20.6
+Best Sector 2,BstSec2,s,5,2879,575.8,int16,38.1,38.3,38.2889
+Best Laptime,BestLap,s,5,2879,575.8,int16,54.0,54.6,54.5456
+Last Sector 1,LstSec1,s,5,2879,575.8,int16,-1.0,21.2,16.2507
+Last Sector 2,LstSec2,s,5,2879,575.8,int16,-1.0,39.2,30.376
+Last Laptime,LastLap,s,5,2879,575.8,int16,-1.0,55.5,43.0622
+Cur Sector 1,CurSec1,s,5,2879,575.8,int16,-1.0,21.2,10.6077
+Cur Sector 2,CurSec2,s,5,2879,575.8,int16,-1.0,39.2,8.9895
+Num Pitstops,NumPits,,4,2303,575.75,int8,0.0,0.0,0.0
+Num Penalties,NumPens,,4,2303,575.75,int8,0.0,0.0,0.0
+Driver Type,Driver,,4,2303,575.75,int8,0.0,0.0,0.0
+Server Scored,Scored,,4,2303,575.75,int8,1.0,1.0,1.0
+Flag,Flag,,5,2879,575.8,int8,0.0,0.0,0.0
+Game Phase,GPhase,,5,2879,575.8,int8,5.0,5.0,5.0
+Yellow Flag State,Yellow,,5,2879,575.8,int8,0.0,0.0,0.0
+Sector Flag 1,SecFlg1,,5,2879,575.8,int8,11.0,11.0,11.0
+Sector Flag 2,SecFlg2,,5,2879,575.8,int8,11.0,11.0,11.0
+Sector Flag 3,SecFlg3,,5,2879,575.8,int8,11.0,11.0,11.0
+Start Light,StrtLgt,,5,2879,575.8,int8,0.0,0.0,0.0
+Num Red Lights,NRdLgts,,5,2879,575.8,int8,5.0,5.0,5.0
+Susp Pos FL,Susp FL,mm,100,57585,575.85,int32,11.6263,49.1494,22.7236
+Susp Pos FR,Susp FR,mm,100,57585,575.85,int32,7.7561,47.65,20.4667
+Susp Pos RL,Susp RL,mm,100,57585,575.85,int32,8.1943,44.4854,27.1289
+Susp Pos RR,Susp RR,mm,100,57585,575.85,int32,3.7722,43.4466,23.3702
+Front 3rd Pos,F 3rd,mm,100,57585,575.85,int32,10.0989,46.9692,21.5952
+Rear 3rd Pos,R 3rd,mm,100,57585,575.85,int32,7.7335,40.2138,25.2495
+Susp Force FL,Ride FL,N,50,28792,575.84,int32,-860.8308,8559.1212,3428.5784
+Susp Force FR,Ride FR,N,50,28792,575.84,int32,-822.3729,7941.069,2083.9604
+Susp Force RL,Ride RL,N,50,28792,575.84,int32,-652.3708,7274.4274,4116.6733
+Susp Force RR,Ride RR,N,50,28792,575.84,int32,-194.1734,7355.9089,3337.7563
+Tyre Carcass Temp FL,TCT FL,C,10,5758,575.8,int32,73.9893,111.0571,94.8131
+Tyre Carcass Temp FR,TCT FR,C,10,5758,575.8,int32,73.9888,85.7989,81.402
+Tyre Carcass Temp RL,TCT RL,C,10,5758,575.8,int32,73.9892,114.6033,98.1205
+Tyre Carcass Temp RR,TCT RR,C,10,5758,575.8,int32,73.9894,98.0454,88.6851
+Tyre Rubber Temp FL O,TRTFL O,C,10,5758,575.8,int32,72.6515,111.0503,92.7838
+Tyre Rubber Temp FL C,TRTFL C,C,10,5758,575.8,int32,72.7548,112.5615,94.7817
+Tyre Rubber Temp FL I,TRTFL I,C,10,5758,575.8,int32,72.8345,100.0564,88.7568
+Tyre Rubber Temp FR O,TRTFR O,C,10,5758,575.8,int32,71.9528,76.8408,74.2596
+Tyre Rubber Temp FR C,TRTFR C,C,10,5758,575.8,int32,72.5183,84.9048,79.5027
+Tyre Rubber Temp FR I,TRTFR I,C,10,5758,575.8,int32,72.7702,91.3418,84.2058
+Tyre Rubber Temp RL O,TRTRL O,C,10,5758,575.8,int32,72.7249,108.8943,92.5054
+Tyre Rubber Temp RL C,TRTRL C,C,10,5758,575.8,int32,73.0051,113.3447,95.9742
+Tyre Rubber Temp RL I,TRTRL I,C,10,5758,575.8,int32,73.078,107.3002,93.2325
+Tyre Rubber Temp RR O,TRTRR O,C,10,5758,575.8,int32,72.0449,85.804,79.3752
+Tyre Rubber Temp RR C,TRTRR C,C,10,5758,575.8,int32,72.8039,98.1489,87.33
+Tyre Rubber Temp RR I,TRTRR I,C,10,5758,575.8,int32,73.0639,103.1713,91.0901
+Lat Patch Vel FL,LtPV FL,m/s,50,28792,575.84,int32,-4.2188,6.4888,0.7959
+Lat Patch Vel FR,LtPV FR,m/s,50,28792,575.84,int32,-4.1414,6.5798,0.8676
+Lat Patch Vel RL,LtPV RL,m/s,50,28792,575.84,int32,-7.1463,5.9393,0.7103
+Lat Patch Vel RR,LtPV RR,m/s,50,28792,575.84,int32,-7.2812,5.7311,0.4995
+Long Patch Vel FL,LgPV FL,m/s,50,28792,575.84,int32,-9.7921,0.7862,-1.3438
+Long Patch Vel FR,LgPV FR,m/s,50,28792,575.84,int32,-14.7718,0.4349,-1.0602
+Long Patch Vel RL,LgPV RL,m/s,50,28792,575.84,int32,-18.2291,6.9642,-0.7973
+Long Patch Vel RR,LgPV RR,m/s,50,28792,575.84,int32,-7.1841,5.8122,-0.102
+Lat Ground Vel FL,LtGV FL,m/s,50,28792,575.84,int32,-4.2304,6.4792,0.7949
+Lat Ground Vel FR,LtGV FR,m/s,50,28792,575.84,int32,-4.1486,6.5696,0.8668
+Lat Ground Vel RL,LtGV RL,m/s,50,28792,575.84,int32,-7.1489,5.9529,0.7093
+Lat Ground Vel RR,LtGV RR,m/s,50,28792,575.84,int32,-7.2775,5.7157,0.4986
+Long Ground Vel FL,LgGV FL,m/s,50,28792,575.84,int32,-67.0895,0.016,-39.3996
+Long Ground Vel FR,LgGV FR,m/s,50,28792,575.84,int32,-67.0192,0.0168,-39.1949
+Long Ground Vel RL,LgGV RL,m/s,50,28792,575.84,int32,-67.0882,0.0238,-39.4725
+Long Ground Vel RR,LgGV RR,m/s,50,28792,575.84,int32,-67.0275,0.0257,-39.3112
+Terrain Idx FL,TnIdxFL,,10,5758,575.8,int8,0.0,0.0,0.0
+Terrain Idx FR,TnIdxFR,,10,5758,575.8,int8,0.0,0.0,0.0
+Terrain Idx RL,TnIdxRL,,10,5758,575.8,int8,0.0,0.0,0.0
+Terrain Idx RR,TnIdxRR,,10,5758,575.8,int8,0.0,0.0,0.0
+Surface Type FL,SrfceFL,,10,5758,575.8,int8,0.0,2.0,0.0031
+Surface Type FR,SrfceFR,,10,5758,575.8,int8,0.0,0.0,0.0
+Surface Type RL,SrfceRL,,10,5758,575.8,int8,0.0,2.0,0.0045
+Surface Type RR,SrfceRR,,10,5758,575.8,int8,0.0,0.0,0.0
+Tyre Flat FL,Flat FL,,10,5758,575.8,int8,0.0,0.0,0.0
+Tyre Flat FR,Flat FR,,10,5758,575.8,int8,0.0,0.0,0.0
+Tyre Flat RL,Flat RL,,10,5758,575.8,int8,0.0,0.0,0.0
+Tyre Flat RR,Flat RR,,10,5758,575.8,int8,0.0,0.0,0.0
+Vertical Tyre Deflection FL,Flat FL,mm,100,57585,575.85,int32,0.0,51.3256,22.3564
+Vertical Tyre Deflection FR,Flat FR,mm,100,57585,575.85,int32,0.0,47.8118,13.5836
+Vertical Tyre Deflection RL,Flat RL,mm,100,57585,575.85,int32,0.0,50.2254,27.2675
+Vertical Tyre Deflection RR,Flat RR,mm,100,57585,575.85,int32,1.1198,51.4802,19.4007
+Clutch RPM,Cltch R,rpm,20,11517,575.85,int32,-15.6814,7793.5925,6301.7149
+Engine Torque,Eng Tq,N.m,20,11517,575.85,int32,-83.0558,398.865,228.3249
+Turbo Boost Pressure,Turbo,kPa,20,11517,575.85,int32,101.325,101.325,101.325
+Body Pitch,Pitch,rad,50,28792,575.84,int32,-0.0808,0.0776,-0.0009
+Body Roll,Roll,rad,50,28792,575.84,int32,-0.0505,0.0647,0.0085
+Motor State,MotorSt,,50,28792,575.84,int8,0.0,0.0,0.0
+Motor Torque,Mot Tq,N.m,20,11517,575.85,int32,0.0,0.0,0.0
+Motor RPM,Mot RPM,rpm,20,11517,575.85,int32,0.0,0.0,0.0
+Motor Temp,Mot Tmp,C,10,5758,575.8,int32,0.0,0.0,0.0
+Motor Water Temp,Mot Wtr,C,10,5758,575.8,int32,0.0,0.0,0.0
+Brake Pressure FL,BrakeFL,%,20,11517,575.85,int32,0.0,59.4,4.2142
+Brake Pressure FR,BrakeFR,%,20,11517,575.85,int32,0.0,59.4,3.7554
+Brake Pressure RL,BrakeRL,%,20,11517,575.85,int32,0.0,30.6,2.3091
+Brake Pressure RR,BrakeRR,%,20,11517,575.85,int32,0.0,30.6,2.3035
+Engine Max RPM,MaxRPM,rpm,20,11517,575.85,int32,7800.0,7800.0,7800.0
+Overheating State,Ovheat,,4,2303,575.75,int8,0.0,0.0,0.0
+Headlights State,Hlights,,4,2303,575.75,int8,0.0,0.0,0.0
+Dent Severity 1,Dent 1,,4,2303,575.75,int8,0.0,0.0,0.0
+Dent Severity 2,Dent 2,,4,2303,575.75,int8,0.0,0.0,0.0
+Dent Severity 3,Dent 3,,4,2303,575.75,int8,0.0,0.0,0.0
+Dent Severity 4,Dent 4,,4,2303,575.75,int8,0.0,0.0,0.0
+Dent Severity 5,Dent 5,,4,2303,575.75,int8,0.0,0.0,0.0
+Dent Severity 6,Dent 6,,4,2303,575.75,int8,0.0,0.0,0.0
+Dent Severity 7,Dent 7,,4,2303,575.75,int8,0.0,0.0,0.0
+Dent Severity 8,Dent 8,,4,2303,575.75,int8,0.0,0.0,0.0
+Last Impact Elapsed Time,Imp ET,,4,2303,575.75,int32,-0.0,-0.0,-0.0
+Last Impact Magnitude,Imp Mag,,4,2303,575.75,int32,0.0,0.0,0.0
+Last Impact X Pos,Imp X,m,4,2303,575.75,int32,0.0,0.0,0.0
+Last Impact Y Pos,Imp Y,m,4,2303,575.75,int32,0.0,0.0,0.0
+Last Impact Z Pos,Imp Z,m,4,2303,575.75,int32,0.0,0.0,0.0
+Speed Limiter On,Limiter,,20,11517,575.85,int8,0.0,1.0,0.0235
+Front Tyre Compound,FTComp,,4,2303,575.75,int8,0.0,0.0,0.0
+Rear Tyre Compound,RTComp,,4,2303,575.75,int8,0.0,0.0,0.0
+Front Flap Activated,FFlap,,20,11517,575.85,int8,0.0,0.0,0.0
+Rear Flap Activated,RFlap,,20,11517,575.85,int8,0.0,0.0,0.0
+Rear Flap Legal Status,RFlapLg,,20,11517,575.85,int8,0.0,2.0,0.6677
+Ignition State,IgnSte,,20,11517,575.85,int8,1.0,2.0,1.0003
+Anti Stall Activated,AStall,,20,11517,575.85,int8,0.0,0.0,0.0
+Local Rotation X,LRot X,rad/s,50,28792,575.84,int32,-0.2532,0.3487,0.0038
+Local Rotation Y,LRot Y,rad/s,50,28792,575.84,int32,-0.5898,0.6049,0.1154
+Local Rotation Z,LRot Z,rad/s,50,28792,575.84,int32,-0.525,0.4881,0.0035
+Local Rot Accel X,LRotA X,rad/s/s,50,28792,575.84,int32,-5.1214,5.2308,-0.0003
+Local Rot Accel Y,LRotA Y,rad/s/s,50,28792,575.84,int32,-5.5921,5.2654,0.0007
+Local Rot Accel Z,LRotA Z,rad/s/s,50,28792,575.84,int32,-13.7344,20.0806,0.0002
+Cloud Darkness,Cloud,%,2,1151,575.5,int16,0.0,0.0,0.0
+Raining,Rain,%,2,1151,575.5,int16,0.0,0.0,0.0
+Min Path Wetness,MinPWet,%,2,1151,575.5,int16,0.0,0.0,0.0
+Off Path Wetness,OffPWet,%,2,1151,575.5,int16,0.0,0.0,0.0
+Wind Speed,WindSpd,m/s,4,2303,575.75,int16,0.0,0.0,0.0
+Wind Heading,WindHdg,rad,4,2303,575.75,int16,0.0,0.0,0.0
+Camber FL,Cmbr FL,rad,100,57585,575.85,int32,-0.2279,-0.0287,-0.0577
+Camber FR,Cmbr FR,rad,100,57585,575.85,int32,-0.083,0.1144,-0.0554
+Camber RL,Cmbr RL,rad,100,57585,575.85,int32,-0.2258,-0.0125,-0.0522
+Camber RR,Cmbr RR,rad,100,57585,575.85,int32,-0.099,0.1187,-0.0526
+Toe FL,Long FL,rad,100,57585,575.85,int32,-0.0821,0.1694,0.0137
+Toe FR,Long FR,rad,100,57585,575.85,int32,-0.0789,0.1705,0.0163
+Toe RL,Long RL,rad,100,57585,575.85,int32,-0.0045,0.0085,0.0012
+Toe RR,Long RR,rad,100,57585,575.85,int32,-0.0083,0.0043,-0.0032
+Lat Force FL,Lat FL,N,100,57585,575.85,int32,-10557.0238,3977.8438,-3080.0378
+Lat Force FR,Lat FR,N,100,57585,575.85,int32,-4496.2609,9403.6462,617.6622
+Lat Force RL,Lat RL,N,100,57585,575.85,int32,-10369.6073,4032.412,-2944.7571
+Lat Force RR,Lat RR,N,100,57585,575.85,int32,-3624.8874,11952.5734,377.0303
+Long Force FL,Long FL,N,100,57585,575.85,int32,-1402.4578,9278.4729,583.8785
+Long Force FR,Long FR,N,100,57585,575.85,int32,-722.4417,8715.675,498.342
+Long Force RL,Long RL,N,100,57585,575.85,int32,-9825.0621,7008.5159,-1286.0189
+Long Force RR,Long RR,N,100,57585,575.85,int32,-7326.809,6447.9101,-1650.1894
+Wheel Detached FL,WDet FL,,100,57585,575.85,int8,0.0,0.0,0.0
+Wheel Detached FR,WDet FR,,100,57585,575.85,int8,0.0,0.0,0.0
+Wheel Detached RL,WDet RL,,100,57585,575.85,int8,0.0,0.0,0.0
+Wheel Detached RR,WDet RR,,100,57585,575.85,int8,0.0,0.0,0.0
+Wheel Y Location FL,WYLocFL,mm,100,57585,575.85,int32,-100.6315,-57.8157,-86.3783
+Wheel Y Location FR,WYLocFR,mm,100,57585,575.85,int32,-103.8826,-58.1981,-87.992
+Wheel Y Location RL,WYLocRL,mm,100,57585,575.85,int32,-118.8605,-71.2458,-94.2235
+Wheel Y Location RR,WYLocRR,mm,100,57585,575.85,int32,-121.532,-69.4575,-96.4676
